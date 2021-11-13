@@ -21,4 +21,4 @@ Le prix de vente est donc `267000€`
 
 # Flag
 
-`UYBHYS{267000€}`
+`UYBHYS{267000}`
