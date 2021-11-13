@@ -17,7 +17,7 @@ En cherchant le pseudo B0G055DU35 sur Github, on tombe bien sur un profil exista
 
 Ce profil a 3 commits récent dans un repo, étant donné que le but du challenge est de récupérer son adresse mail, on a cloner le repo pour regarder les logs des commits qui affichent une adresse mail, soit rentré par l'utilisateur (ce qui nous intéresserait), soit généré automatiquement par Github (Dans le cadre de commit Github).
 
-![Premier élement](./Fichiers/C0MM1T_PU5H_4DD_2.png)
+![Deuxième élement](./Fichiers/C0MM1T_PU5H_4DD_2.png)
 
 On peut voir sur ce screen les 3 commits, et voir que l'utilisateur a rentré son adresse mail pour le dernier commit qu'il a fait.
 
