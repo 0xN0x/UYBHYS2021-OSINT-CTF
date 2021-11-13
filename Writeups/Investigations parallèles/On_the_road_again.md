@@ -15,10 +15,12 @@ Celui-ci était particulièrement vicieux, il faut savoir que nous avions préc�
 
 La piste la plus évidente dans un premier temps était d'utiliser ces élements là pour tenter de retrouver le chemin emprunté dans la photo étant donné que son profil Strava était vide mis à part le nom de la ville où il habite (La couyères). Cependant c'était une fausse piste.
 
-En cherchant son pseudo sur des moteurs de recherches autres de Google comme DuckDuckGo, Bing ou Qwant par exemple, on remarque un lien qui n'est pas présent sur Google. Il sagit du lien vers son profil Soundcloud.
+2 élements étaient à remarquer pour trouver la suite :
+
+- En cherchant son pseudo sur des moteurs de recherches autres de Google comme DuckDuckGo, Bing ou Qwant par exemple, on remarque un lien qui n'est pas présent sur Google. Il sagit du lien vers son profil Soundcloud.
+- En regardant les comptes qu'il suit sur Twitter, on remarque qu'il suit Soundcloud, ce qui peut être une piste où un début de piste pour aller plus loin.
 
 ![Soundcloud](./Fichiers/On_the_road_again_1.png)
-
 
 Bien que quasiment entièrement vide plusieurs élements doivent sauter aux yeux, les likes et les commentaires. Principalement les commentaires car sur Soundcloud les commentaires sont liés à un moment spécifique de la chanson et peuvent permettre de mettre en avant des paroles particulière ou des élements important.
 
